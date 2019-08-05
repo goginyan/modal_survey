@@ -1,0 +1,1637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0db09112-f62f-44fc-9942-1112ba334817" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="modal_survey.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modal_survey.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="97">
+              <caret line="2400" column="29" lean-forward="true" selection-start-line="2400" selection-start-column="29" selection-end-line="2400" selection-end-column="29" />
+              <folding>
+                <marker date="1541429915314" expanded="true" signature="9487:9551" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="9657:10071" ph="..." />
+                <marker date="1541429915314" expanded="true" signature="10483:11059" ph="CREATE TABLE... IF" />
+                <marker date="1541429915314" expanded="true" signature="11114:11326" ph="CREATE TABLE... IF" />
+                <marker date="1541429915314" expanded="true" signature="11381:11718" ph="CREATE TABLE... IF" />
+                <marker date="1541429915314" expanded="true" signature="11773:12001" ph="CREATE TABLE... IF" />
+                <marker date="1541429915314" expanded="true" signature="12056:12391" ph="CREATE TABLE... IF" />
+                <marker date="1541429915314" expanded="true" signature="12446:12844" ph="CREATE TABLE... IF" />
+                <marker date="1541429915314" expanded="true" signature="16067:16130" ph="DROP TABLE I... " />
+                <marker date="1541429915314" expanded="true" signature="16152:16217" ph="DROP TABLE I... " />
+                <marker date="1541429915314" expanded="true" signature="16239:16302" ph="DROP TABLE I... " />
+                <marker date="1541429915314" expanded="true" signature="16324:16392" ph="DROP TABLE I... " />
+                <marker date="1541429915314" expanded="true" signature="16414:16482" ph="DROP TABLE I... " />
+                <marker date="1541429915314" expanded="true" signature="16504:16580" ph="DROP TABLE I... " />
+                <marker date="1541429915314" expanded="true" signature="22582:22666" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="22721:22887" ph="SELECT sames... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="31342:31422" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="31551:31635" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="31690:31855" ph="SELECT sames... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="32266:32506" ph="SELECT DATE_... " />
+                <marker date="1541429915314" expanded="true" signature="32566:32701" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="39969:40059" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="40821:40905" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="41033:41121" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="41223:41307" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="41365:41530" ph="SELECT sames... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="41874:42107" ph="SELECT *, ms... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="42747:43108" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="43798:43956" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="47356:47514" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="47781:47922" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="51975:52208" ph="SELECT *, ms... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="53487:53642" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="53898:54039" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="55529:55775" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="55876:56034" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="56288:56429" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="56860:56944" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="56994:57341" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="68585:68831" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="69408:69563" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="69607:69765" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="70021:70162" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="74738:74802" ph="..." />
+                <marker date="1541429915314" expanded="true" signature="75353:75417" ph="..." />
+                <marker date="1541429915314" expanded="true" signature="77731:77977" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="78585:78611" ph="..." />
+                <marker date="1541429915314" expanded="true" signature="78738:78896" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="79158:79299" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="81927:81953" ph="..." />
+                <marker date="1541429915314" expanded="true" signature="81995:82153" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="82407:82548" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="83661:83745" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="83795:84142" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="102318:102732" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="103103:103543" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="107123:107291" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="108406:108523" ph="SELECT quest... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="108605:108846" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="110216:110469" ph="SELECT msat.... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="112136:112407" ph="SELECT id, o... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="114053:114305" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="117225:117639" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="119130:119294" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="119958:120174" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="121527:121780" ph="SELECT msat.... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="125639:125783" ph="SELECT `qid`... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="125885:126018" ph="SELECT `aopt... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1541429915314" expanded="true" signature="127691:127912" ph="SELECT * FRO... COLUMNS" />
+                <marker date="1541429915314" expanded="true" signature="127974:128193" ph="SELECT * FRO... COLUMNS" />
+                <marker date="1541429915314" expanded="true" signature="128625:128843" ph="SELECT * FRO... COLUMNS" />
+                <marker date="1541429915314" expanded="true" signature="128904:129122" ph="SELECT * FRO... COLUMNS" />
+                <marker date="1541429915314" expanded="true" signature="129183:129399" ph="SELECT * FRO... COLUMNS" />
+                <marker date="1541429915314" expanded="true" signature="130372:130591" ph="SELECT * FRO... COLUMNS" />
+                <marker date="1541429915314" expanded="true" signature="130854:131084" ph="SELECT * FRO... COLUMNS" />
+                <marker date="1541429915314" expanded="true" signature="131422:131657" ph="SELECT * FRO... COLUMNS" />
+                <marker date="1541429915314" expanded="true" signature="131722:131951" ph="SELECT * FRO... COLUMNS" />
+                <marker date="1541429915314" expanded="true" signature="132485:132707" ph="SELECT * FRO... COLUMNS" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6318">
+              <caret line="351" column="40" lean-forward="false" selection-start-line="351" selection-start-column="40" selection-end-line="351" selection-end-column="40" />
+              <folding>
+                <marker date="1530154376000" expanded="true" signature="1775:2007" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="7510:7527" ph="..." />
+                <marker date="1530154376000" expanded="true" signature="7624:7650" ph="..." />
+                <marker date="1530154376000" expanded="true" signature="8255:8487" ph="SELECT COUNT... " />
+                <marker date="1530154376000" expanded="true" signature="8742:8759" ph="..." />
+                <marker date="1530154376000" expanded="true" signature="8856:8882" ph="..." />
+                <marker date="1530154376000" expanded="true" signature="26799:26872" ph="Select from the... " />
+                <marker date="1530154376000" expanded="true" signature="30559:30637" ph="SELECT id,na... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="44115:44134" ph="..." />
+                <marker date="1530154376000" expanded="true" signature="60682:60787" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="62840:62858" ph="..." />
+                <marker date="1530154376000" expanded="true" signature="63262:63295" ph="..." />
+                <marker date="1530154376000" expanded="true" signature="63364:63397" ph="..." />
+                <marker date="1530154376000" expanded="true" signature="63465:63498" ph="..." />
+                <marker date="1530154376000" expanded="true" signature="65712:65809" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="69441:69571" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="69903:70019" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="70425:70533" ph="DELETE FROM " />
+                <marker date="1530154376000" expanded="true" signature="70783:70869" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="70962:71118" ph="DELETE FROM " />
+                <marker date="1530154376000" expanded="true" signature="75755:75837" ph="SELECT optio... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="77933:78015" ph="SELECT optio... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="79079:79161" ph="SELECT optio... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="80633:80787" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="81172:81258" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="82895:82981" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="84688:84844" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="87247:87399" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="87799:87885" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="89566:89652" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="91306:91462" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="97283:97526" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="98518:98700" ph="SELECT sames... ${$this-&gt;wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="98870:99297" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="99720:99885" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="101565:101654" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="106991:107074" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="108616:108742" ph="SELECT quest... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="108828:109001" ph="SELECT answe... ${$this-&gt;wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="109241:109335" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="109497:109581" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="110105:110218" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="110576:110691" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="111583:111705" ph="DELETE FROM " />
+                <marker date="1530154376000" expanded="true" signature="114532:114615" ph="DELETE FROM " />
+                <marker date="1530154376000" expanded="true" signature="114671:114752" ph="DELETE FROM " />
+                <marker date="1530154376000" expanded="true" signature="115780:115940" ph="DELETE FROM " />
+                <marker date="1530154376000" expanded="true" signature="115864:115939" ph="SELECT msa.u... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="117554:117628" ph="DELETE FROM " />
+                <marker date="1530154376000" expanded="true" signature="117684:117767" ph="DELETE FROM " />
+                <marker date="1530154376000" expanded="true" signature="117823:117904" ph="DELETE FROM " />
+                <marker date="1530154376000" expanded="true" signature="117960:118046" ph="DELETE FROM " />
+                <marker date="1530154376000" expanded="true" signature="118306:118392" ph="DELETE FROM " />
+                <marker date="1530154376000" expanded="true" signature="118462:118538" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+                <marker date="1530154376000" expanded="true" signature="118592:118666" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings_participants.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/settings_participants.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3006">
+              <caret line="167" column="35" lean-forward="false" selection-start-line="167" selection-start-column="35" selection-end-line="167" selection-end-column="35" />
+              <folding>
+                <marker date="1532538008000" expanded="true" signature="972:1089" ph="DELETE FROM " />
+                <marker date="1532538008000" expanded="true" signature="1510:1592" ph="SELECT id, n... ${$this-&gt;wpdb-&gt;base_prefix}" />
+                <marker date="1532538008000" expanded="true" signature="1958:2073" ph="SELECT id FR... ${$this-&gt;wpdb-&gt;base_prefix}" />
+                <marker date="1532538008000" expanded="true" signature="2138:2414" ph="SELECT mspd.... ${$this-&gt;wpdb-&gt;base_prefix}" />
+                <marker date="1532538008000" expanded="true" signature="2540:2714" ph="SELECT qid F... ${$this-&gt;wpdb-&gt;base_prefix}" />
+                <marker date="1532538008000" expanded="true" signature="2967:3099" ph="DELETE FROM " />
+                <marker date="1532538008000" expanded="true" signature="3742:3851" ph="DELETE FROM " />
+                <marker date="1532538008000" expanded="true" signature="3964:4058" ph="DELETE FROM " />
+                <marker date="1532538008000" expanded="true" signature="4116:4325" ph="DELETE FROM " />
+                <marker date="1532538008000" expanded="true" signature="4207:4323" ph="SELECT mspd.... ${$this-&gt;wpdb-&gt;base_prefix}" />
+                <marker date="1532538008000" expanded="true" signature="4752:4841" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+                <marker date="1532538008000" expanded="true" signature="4924:5050" ph="SELECT ip FR... ${$this-&gt;wpdb-&gt;base_prefix}" />
+                <marker date="1532538008000" expanded="true" signature="5134:5281" ph="SELECT posti... ${$this-&gt;wpdb-&gt;base_prefix}" />
+                <marker date="1532538008000" expanded="true" signature="5367:5603" ph="SELECT mspd.... ${$this-&gt;wpdb-&gt;base_prefix}" />
+                <marker date="1532538008000" expanded="true" signature="8082:8210" ph="SELECT aid F... ${$this-&gt;wpdb-&gt;base_prefix}" />
+                <marker date="1532538008000" expanded="true" signature="11025:11298" ph="SELECT sames... " />
+                <marker date="1532538008000" expanded="true" signature="11372:11449" ph="..." />
+                <marker date="1532538008000" expanded="true" signature="12321:12441" ph="SELECT posti... ${$this-&gt;wpdb-&gt;base_prefix}" />
+                <marker date="1532538008000" expanded="true" signature="14505:15201" ph="..." />
+                <marker date="1532538008000" expanded="true" signature="14530:15190" ph="..." />
+                <marker date="1532538008000" expanded="true" signature="14541:15179" ph="..." />
+                <marker date="1532538008000" expanded="true" signature="14651:15167" ph="..." />
+                <marker date="1532538008000" expanded="true" signature="16062:16564" ph="SELECT msp.a... ${$this-&gt;wpdb-&gt;base_prefix}" />
+                <marker date="1532538008000" expanded="true" signature="17158:17732" ph="..." />
+                <marker date="1532538008000" expanded="true" signature="17168:17725" ph="..." />
+                <marker date="1532538008000" expanded="true" signature="17176:17714" ph="..." />
+                <marker date="1532538008000" expanded="true" signature="17830:18078" ph="SELECT sames... ${$this-&gt;wpdb-&gt;base_prefix}" />
+                <marker date="1532538008000" expanded="true" signature="18429:18518" ph="DELETE FROM " />
+                <marker date="1532538008000" expanded="true" signature="20585:20659" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings_newform.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/settings_newform.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="233" lean-forward="false" selection-start-line="0" selection-start-column="230" selection-end-line="0" selection-end-column="233" />
+              <folding>
+                <marker date="1541425681503" expanded="true" signature="2068:2157" ph="SELECT COUNT... " />
+                <marker date="1541425681503" expanded="true" signature="5269:5373" ph="SELECT id, n... ${$wpdb-&gt;base_prefix}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modal_survey.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/assets/js/modal_survey.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11106">
+              <caret line="617" column="9" lean-forward="false" selection-start-line="617" selection-start-column="9" selection-end-line="617" selection-end-column="9" />
+              <folding>
+                <marker date="1533357400000" expanded="true" signature="47765:47793" ph="..." />
+                <marker date="1533357400000" expanded="true" signature="50972:50993" ph="..." />
+                <marker date="1533357400000" expanded="true" signature="65267:65293" ph="..." />
+                <marker date="1533357400000" expanded="true" signature="67364:67390" ph="..." />
+                <marker date="1533357400000" expanded="true" signature="69102:69128" ph="..." />
+                <marker date="1533357400000" expanded="true" signature="76620:76633" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modal_survey_answer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/assets/js/modal_survey_answer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>isimple.json</find>
+      <find>imsimple.json</find>
+      <find>impsimple.json</find>
+      <find>imposimple.json</find>
+      <find>imporsimple.json</find>
+      <find>importsimple.json</find>
+      <find>import/simple.json</find>
+      <find>import/simple</find>
+      <find>import/simpl</find>
+      <find>import/simp</find>
+      <find>import/sim</find>
+      <find>import/si</find>
+      <find>import/s</find>
+      <find>modalsurvey</find>
+      <find>import/</find>
+      <find>Simple Survey</find>
+      <find>redirection</find>
+      <find>import_id=redirection</find>
+      <find>import_id</find>
+      <find>modal-survey-embed</find>
+      <find>bar survey_global_percent</find>
+      <find>ms-a-label</find>
+      <find>survey_header</find>
+      <find>survey_answers_shortcodes</find>
+      <find>survey_answers</find>
+      <find>survey_answer_choice</find>
+      <find>send</find>
+      <find>send_answer</find>
+      <find>sanswers</find>
+      <find>img</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/templates/import/test.json" />
+        <option value="$PROJECT_DIR$/templates/settings_newform.php" />
+        <option value="$PROJECT_DIR$/modal_survey.php" />
+        <option value="$PROJECT_DIR$/templates/assets/js/modal_survey.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1293" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modal_survey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modal_survey" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modal_survey" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modal_survey" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Music/test" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0db09112-f62f-44fc-9942-1112ba334817" name="Default" comment="" />
+      <created>1541419785119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541419785119</updated>
+      <workItem from="1541419786616" duration="4443000" />
+      <workItem from="1541425368084" duration="7186000" />
+      <workItem from="1541661578062" duration="4442000" />
+      <workItem from="1542026490711" duration="735000" />
+      <workItem from="1542206275614" duration="168000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16974000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1293" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2080433" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/templates/assets/js/modal_survey.js</url>
+          <line>23</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/templates/assets/js/modal_survey.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/modal_survey.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1541429915314" expanded="true" signature="9487:9551" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="9657:10071" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="10483:11059" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="11114:11326" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="11381:11718" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="11773:12001" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="12056:12391" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="12446:12844" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="16067:16130" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16152:16217" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16239:16302" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16324:16392" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16414:16482" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16504:16580" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="22582:22666" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="22721:22887" ph="SELECT sames... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="31342:31422" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="31551:31635" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="31690:31855" ph="SELECT sames... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="32266:32506" ph="SELECT DATE_... " />
+            <marker date="1541429915314" expanded="true" signature="32566:32701" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="39969:40059" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="40821:40905" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="41033:41121" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="41223:41307" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="41365:41530" ph="SELECT sames... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="41874:42107" ph="SELECT *, ms... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="42747:43108" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="43798:43956" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="47356:47514" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="47781:47922" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="51975:52208" ph="SELECT *, ms... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="53487:53642" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="53898:54039" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="55529:55775" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="55876:56034" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="56288:56429" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="56860:56944" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="56994:57341" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="68585:68831" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="69408:69563" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="69607:69765" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="70021:70162" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="74738:74802" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="75353:75417" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="77731:77977" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="78585:78611" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="78738:78896" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="79158:79299" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="81927:81953" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="81995:82153" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="82407:82548" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="83661:83745" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="83795:84142" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="102318:102732" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="103103:103543" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="107123:107291" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="108406:108523" ph="SELECT quest... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="108605:108846" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="110216:110469" ph="SELECT msat.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="112136:112407" ph="SELECT id, o... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="114053:114305" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="117225:117639" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="119130:119294" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="119958:120174" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="121527:121780" ph="SELECT msat.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="125639:125783" ph="SELECT `qid`... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="125885:126018" ph="SELECT `aopt... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="127691:127912" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="127974:128193" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="128625:128843" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="128904:129122" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="129183:129399" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="130372:130591" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="130854:131084" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="131422:131657" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="131722:131951" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="132485:132707" ph="SELECT * FRO... COLUMNS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6318">
+          <caret line="351" column="40" lean-forward="false" selection-start-line="351" selection-start-column="40" selection-end-line="351" selection-end-column="40" />
+          <folding>
+            <marker date="1530154376000" expanded="true" signature="1775:2007" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="7510:7527" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="7624:7650" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="8255:8487" ph="SELECT COUNT... " />
+            <marker date="1530154376000" expanded="true" signature="8742:8759" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="8856:8882" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="26799:26872" ph="Select from the... " />
+            <marker date="1530154376000" expanded="true" signature="30559:30637" ph="SELECT id,na... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="44115:44134" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="60682:60787" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="62840:62858" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="63262:63295" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="63364:63397" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="63465:63498" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="65712:65809" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="69441:69571" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="69903:70019" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="70425:70533" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="70783:70869" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="70962:71118" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="75755:75837" ph="SELECT optio... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="77933:78015" ph="SELECT optio... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="79079:79161" ph="SELECT optio... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="80633:80787" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="81172:81258" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="82895:82981" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="84688:84844" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="87247:87399" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="87799:87885" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="89566:89652" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="91306:91462" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="97283:97526" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="98518:98700" ph="SELECT sames... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="98870:99297" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="99720:99885" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="101565:101654" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="106991:107074" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="108616:108742" ph="SELECT quest... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="108828:109001" ph="SELECT answe... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="109241:109335" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="109497:109581" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="110105:110218" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="110576:110691" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="111583:111705" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="114532:114615" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="114671:114752" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="115780:115940" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="115864:115939" ph="SELECT msa.u... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="117554:117628" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="117684:117767" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="117823:117904" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="117960:118046" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="118306:118392" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="118462:118538" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="118592:118666" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/settings_participants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3006">
+          <caret line="167" column="35" lean-forward="false" selection-start-line="167" selection-start-column="35" selection-end-line="167" selection-end-column="35" />
+          <folding>
+            <marker date="1532538008000" expanded="true" signature="972:1089" ph="DELETE FROM " />
+            <marker date="1532538008000" expanded="true" signature="1510:1592" ph="SELECT id, n... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="1958:2073" ph="SELECT id FR... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="2138:2414" ph="SELECT mspd.... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="2540:2714" ph="SELECT qid F... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="2967:3099" ph="DELETE FROM " />
+            <marker date="1532538008000" expanded="true" signature="3742:3851" ph="DELETE FROM " />
+            <marker date="1532538008000" expanded="true" signature="3964:4058" ph="DELETE FROM " />
+            <marker date="1532538008000" expanded="true" signature="4116:4325" ph="DELETE FROM " />
+            <marker date="1532538008000" expanded="true" signature="4207:4323" ph="SELECT mspd.... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="4752:4841" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="4924:5050" ph="SELECT ip FR... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="5134:5281" ph="SELECT posti... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="5367:5603" ph="SELECT mspd.... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="8082:8210" ph="SELECT aid F... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="11025:11298" ph="SELECT sames... " />
+            <marker date="1532538008000" expanded="true" signature="11372:11449" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="12321:12441" ph="SELECT posti... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="14505:15201" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="14530:15190" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="14541:15179" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="14651:15167" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="16062:16564" ph="SELECT msp.a... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="17158:17732" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="17168:17725" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="17176:17714" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="17830:18078" ph="SELECT sames... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="18429:18518" ph="DELETE FROM " />
+            <marker date="1532538008000" expanded="true" signature="20585:20659" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/settings_newform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="233" lean-forward="false" selection-start-line="0" selection-start-column="230" selection-end-line="0" selection-end-column="233" />
+          <folding>
+            <marker date="1541425681503" expanded="true" signature="2068:2157" ph="SELECT COUNT... " />
+            <marker date="1541425681503" expanded="true" signature="5269:5373" ph="SELECT id, n... ${$wpdb-&gt;base_prefix}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/assets/js/modal_survey.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11106">
+          <caret line="617" column="9" lean-forward="true" selection-start-line="617" selection-start-column="9" selection-end-line="617" selection-end-column="9" />
+          <folding>
+            <marker date="1533357400000" expanded="true" signature="47765:47793" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="50972:50993" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="65267:65293" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="67364:67390" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="69102:69128" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="76620:76633" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/assets/js/modal_survey_answer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal_survey.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43650">
+          <caret line="2425" column="33" lean-forward="true" selection-start-line="2425" selection-start-column="33" selection-end-line="2425" selection-end-column="33" />
+          <folding>
+            <marker date="1541429915314" expanded="true" signature="9487:9551" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="9657:10071" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="10483:11059" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="11114:11326" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="11381:11718" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="11773:12001" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="12056:12391" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="12446:12844" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="16067:16130" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16152:16217" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16239:16302" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16324:16392" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16414:16482" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16504:16580" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="22582:22666" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="22721:22887" ph="SELECT sames... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="31342:31422" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="31551:31635" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="31690:31855" ph="SELECT sames... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="32266:32506" ph="SELECT DATE_... " />
+            <marker date="1541429915314" expanded="true" signature="32566:32701" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="39969:40059" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="40821:40905" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="41033:41121" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="41223:41307" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="41365:41530" ph="SELECT sames... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="41874:42107" ph="SELECT *, ms... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="42747:43108" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="43798:43956" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="47356:47514" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="47781:47922" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="51975:52208" ph="SELECT *, ms... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="53487:53642" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="53898:54039" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="55529:55775" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="55876:56034" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="56288:56429" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="56860:56944" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="56994:57341" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="68585:68831" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="69408:69563" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="69607:69765" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="70021:70162" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="74738:74802" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="75353:75417" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="77731:77977" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="78585:78611" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="78738:78896" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="79158:79299" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="81927:81953" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="81995:82153" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="82407:82548" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="83661:83745" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="83795:84142" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="102318:102732" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="103103:103543" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="107123:107291" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="108406:108523" ph="SELECT quest... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="108605:108846" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="110216:110469" ph="SELECT msat.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="112136:112407" ph="SELECT id, o... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="114053:114305" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="117225:117639" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="119130:119294" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="119958:120174" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="121527:121780" ph="SELECT msat.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="125639:125783" ph="SELECT `qid`... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="125885:126018" ph="SELECT `aopt... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="127691:127912" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="127974:128193" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="128625:128843" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="128904:129122" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="129183:129399" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="130372:130591" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="130854:131084" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="131422:131657" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="131722:131951" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="132485:132707" ph="SELECT * FRO... COLUMNS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6318">
+          <caret line="351" column="40" lean-forward="false" selection-start-line="351" selection-start-column="40" selection-end-line="351" selection-end-column="40" />
+          <folding>
+            <marker date="1530154376000" expanded="true" signature="1775:2007" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="7510:7527" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="7624:7650" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="8255:8487" ph="SELECT COUNT... " />
+            <marker date="1530154376000" expanded="true" signature="8742:8759" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="8856:8882" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="26799:26872" ph="Select from the... " />
+            <marker date="1530154376000" expanded="true" signature="30559:30637" ph="SELECT id,na... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="44115:44134" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="60682:60787" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="62840:62858" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="63262:63295" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="63364:63397" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="63465:63498" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="65712:65809" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="69441:69571" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="69903:70019" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="70425:70533" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="70783:70869" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="70962:71118" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="75755:75837" ph="SELECT optio... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="77933:78015" ph="SELECT optio... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="79079:79161" ph="SELECT optio... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="80633:80787" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="81172:81258" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="82895:82981" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="84688:84844" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="87247:87399" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="87799:87885" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="89566:89652" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="91306:91462" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="97283:97526" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="98518:98700" ph="SELECT sames... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="98870:99297" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="99720:99885" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="101565:101654" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="106991:107074" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="108616:108742" ph="SELECT quest... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="108828:109001" ph="SELECT answe... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="109241:109335" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="109497:109581" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="110105:110218" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="110576:110691" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="111583:111705" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="114532:114615" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="114671:114752" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="115780:115940" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="115864:115939" ph="SELECT msa.u... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="117554:117628" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="117684:117767" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="117823:117904" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="117960:118046" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="118306:118392" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="118462:118538" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="118592:118666" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/settings_participants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3006">
+          <caret line="167" column="35" lean-forward="false" selection-start-line="167" selection-start-column="35" selection-end-line="167" selection-end-column="35" />
+          <folding>
+            <marker date="1532538008000" expanded="true" signature="972:1089" ph="DELETE FROM " />
+            <marker date="1532538008000" expanded="true" signature="1510:1592" ph="SELECT id, n... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="1958:2073" ph="SELECT id FR... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="2138:2414" ph="SELECT mspd.... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="2540:2714" ph="SELECT qid F... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="2967:3099" ph="DELETE FROM " />
+            <marker date="1532538008000" expanded="true" signature="3742:3851" ph="DELETE FROM " />
+            <marker date="1532538008000" expanded="true" signature="3964:4058" ph="DELETE FROM " />
+            <marker date="1532538008000" expanded="true" signature="4116:4325" ph="DELETE FROM " />
+            <marker date="1532538008000" expanded="true" signature="4207:4323" ph="SELECT mspd.... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="4752:4841" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="4924:5050" ph="SELECT ip FR... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="5134:5281" ph="SELECT posti... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="5367:5603" ph="SELECT mspd.... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="8082:8210" ph="SELECT aid F... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="11025:11298" ph="SELECT sames... " />
+            <marker date="1532538008000" expanded="true" signature="11372:11449" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="12321:12441" ph="SELECT posti... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="14505:15201" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="14530:15190" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="14541:15179" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="14651:15167" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="16062:16564" ph="SELECT msp.a... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="17158:17732" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="17168:17725" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="17176:17714" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="17830:18078" ph="SELECT sames... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="18429:18518" ph="DELETE FROM " />
+            <marker date="1532538008000" expanded="true" signature="20585:20659" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/settings_newform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="233" lean-forward="false" selection-start-line="0" selection-start-column="230" selection-end-line="0" selection-end-column="233" />
+          <folding>
+            <marker date="1541425681503" expanded="true" signature="2068:2157" ph="SELECT COUNT... " />
+            <marker date="1541425681503" expanded="true" signature="5269:5373" ph="SELECT id, n... ${$wpdb-&gt;base_prefix}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/assets/js/modal_survey_answer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/assets/js/modal_survey.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10854">
+          <caret line="603" column="40" lean-forward="true" selection-start-line="603" selection-start-column="40" selection-end-line="603" selection-end-column="40" />
+          <folding>
+            <marker date="1533357400000" expanded="true" signature="47765:47793" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="50972:50993" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="65267:65293" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="67364:67390" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="69102:69128" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="76620:76633" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal_survey.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1541429915314" expanded="true" signature="9487:9551" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="9657:10071" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="10483:11059" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="11114:11326" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="11381:11718" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="11773:12001" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="12056:12391" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="12446:12844" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="16067:16130" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16152:16217" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16239:16302" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16324:16392" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16414:16482" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16504:16580" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="22582:22666" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="22721:22887" ph="SELECT sames... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="31342:31422" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="31551:31635" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="31690:31855" ph="SELECT sames... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="32266:32506" ph="SELECT DATE_... " />
+            <marker date="1541429915314" expanded="true" signature="32566:32701" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="39969:40059" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="40821:40905" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="41033:41121" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="41223:41307" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="41365:41530" ph="SELECT sames... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="41874:42107" ph="SELECT *, ms... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="42747:43108" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="43798:43956" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="47356:47514" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="47781:47922" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="51975:52208" ph="SELECT *, ms... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="53487:53642" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="53898:54039" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="55529:55775" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="55876:56034" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="56288:56429" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="56860:56944" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="56994:57341" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="68585:68831" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="69408:69563" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="69607:69765" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="70021:70162" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="74738:74802" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="75353:75417" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="77731:77977" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="78585:78611" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="78738:78896" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="79158:79299" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="81927:81953" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="81995:82153" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="82407:82548" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="83661:83745" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="83795:84142" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="102318:102732" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="103103:103543" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="107123:107291" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="108406:108523" ph="SELECT quest... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="108605:108846" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="110216:110469" ph="SELECT msat.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="112136:112407" ph="SELECT id, o... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="114053:114305" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="117225:117639" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="119130:119294" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="119958:120174" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="121527:121780" ph="SELECT msat.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="125639:125783" ph="SELECT `qid`... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="125885:126018" ph="SELECT `aopt... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="127691:127912" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="127974:128193" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="128625:128843" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="128904:129122" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="129183:129399" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="130372:130591" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="130854:131084" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="131422:131657" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="131722:131951" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="132485:132707" ph="SELECT * FRO... COLUMNS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6318">
+          <caret line="351" column="40" lean-forward="false" selection-start-line="351" selection-start-column="40" selection-end-line="351" selection-end-column="40" />
+          <folding>
+            <marker date="1530154376000" expanded="true" signature="1775:2007" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="7510:7527" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="7624:7650" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="8255:8487" ph="SELECT COUNT... " />
+            <marker date="1530154376000" expanded="true" signature="8742:8759" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="8856:8882" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="26799:26872" ph="Select from the... " />
+            <marker date="1530154376000" expanded="true" signature="30559:30637" ph="SELECT id,na... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="44115:44134" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="60682:60787" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="62840:62858" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="63262:63295" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="63364:63397" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="63465:63498" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="65712:65809" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="69441:69571" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="69903:70019" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="70425:70533" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="70783:70869" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="70962:71118" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="75755:75837" ph="SELECT optio... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="77933:78015" ph="SELECT optio... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="79079:79161" ph="SELECT optio... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="80633:80787" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="81172:81258" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="82895:82981" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="84688:84844" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="87247:87399" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="87799:87885" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="89566:89652" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="91306:91462" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="97283:97526" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="98518:98700" ph="SELECT sames... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="98870:99297" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="99720:99885" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="101565:101654" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="106991:107074" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="108616:108742" ph="SELECT quest... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="108828:109001" ph="SELECT answe... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="109241:109335" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="109497:109581" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="110105:110218" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="110576:110691" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="111583:111705" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="114532:114615" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="114671:114752" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="115780:115940" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="115864:115939" ph="SELECT msa.u... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="117554:117628" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="117684:117767" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="117823:117904" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="117960:118046" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="118306:118392" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="118462:118538" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="118592:118666" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/import/test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/settings_newform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2970">
+          <caret line="165" column="10" lean-forward="true" selection-start-line="165" selection-start-column="10" selection-end-line="165" selection-end-column="10" />
+          <folding>
+            <marker date="1541425681503" expanded="true" signature="2068:2157" ph="SELECT COUNT... " />
+            <marker date="1541425681503" expanded="true" signature="5269:5373" ph="SELECT id, n... ${$wpdb-&gt;base_prefix}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/assets/js/modal_survey.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22068">
+          <caret line="1226" column="497" lean-forward="true" selection-start-line="1226" selection-start-column="497" selection-end-line="1226" selection-end-column="497" />
+          <folding>
+            <marker date="1533357400000" expanded="true" signature="47765:47793" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="50972:50993" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="65267:65293" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="67364:67390" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="69102:69128" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="76620:76633" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/assets/js/image-uploader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/assets/js/modal_survey_answer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal_survey.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding>
+            <marker date="1541429915314" expanded="true" signature="9487:9551" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="9657:10071" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="10483:11059" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="11114:11326" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="11381:11718" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="11773:12001" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="12056:12391" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="12446:12844" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="16067:16130" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16152:16217" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16239:16302" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16324:16392" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16414:16482" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16504:16580" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="22582:22666" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="22721:22887" ph="SELECT sames... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="31342:31422" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="31551:31635" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="31690:31855" ph="SELECT sames... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="32266:32506" ph="SELECT DATE_... " />
+            <marker date="1541429915314" expanded="true" signature="32566:32701" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="39969:40059" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="40821:40905" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="41033:41121" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="41223:41307" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="41365:41530" ph="SELECT sames... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="41874:42107" ph="SELECT *, ms... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="42747:43108" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="43798:43956" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="47356:47514" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="47781:47922" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="51975:52208" ph="SELECT *, ms... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="53487:53642" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="53898:54039" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="55529:55775" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="55876:56034" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="56288:56429" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="56860:56944" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="56994:57341" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="68585:68831" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="69408:69563" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="69607:69765" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="70021:70162" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="74738:74802" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="75353:75417" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="77731:77977" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="78585:78611" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="78738:78896" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="79158:79299" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="81927:81953" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="81995:82153" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="82407:82548" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="83661:83745" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="83795:84142" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="102318:102732" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="103103:103543" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="107123:107291" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="108406:108523" ph="SELECT quest... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="108605:108846" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="110216:110469" ph="SELECT msat.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="112136:112407" ph="SELECT id, o... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="114053:114305" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="117225:117639" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="119130:119294" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="119958:120174" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="121527:121780" ph="SELECT msat.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="125639:125783" ph="SELECT `qid`... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="125885:126018" ph="SELECT `aopt... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="127691:127912" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="127974:128193" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="128625:128843" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="128904:129122" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="129183:129399" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="130372:130591" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="130854:131084" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="131422:131657" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="131722:131951" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="132485:132707" ph="SELECT * FRO... COLUMNS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17712">
+          <caret line="984" column="69" lean-forward="true" selection-start-line="984" selection-start-column="69" selection-end-line="984" selection-end-column="69" />
+          <folding>
+            <marker date="1530154376000" expanded="true" signature="1775:2007" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="7510:7527" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="7624:7650" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="8255:8487" ph="SELECT COUNT... " />
+            <marker date="1530154376000" expanded="true" signature="8742:8759" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="8856:8882" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="26799:26872" ph="Select from the... " />
+            <marker date="1530154376000" expanded="true" signature="30559:30637" ph="SELECT id,na... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="44115:44134" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="60682:60787" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="62840:62858" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="63262:63295" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="63364:63397" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="63465:63498" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="65712:65809" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="69441:69571" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="69903:70019" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="70425:70533" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="70783:70869" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="70962:71118" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="75755:75837" ph="SELECT optio... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="77933:78015" ph="SELECT optio... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="79079:79161" ph="SELECT optio... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="80633:80787" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="81172:81258" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="82895:82981" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="84688:84844" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="87247:87399" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="87799:87885" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="89566:89652" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="91306:91462" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="97283:97526" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="98518:98700" ph="SELECT sames... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="98870:99297" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="99720:99885" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="101565:101654" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="106991:107074" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="108616:108742" ph="SELECT quest... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="108828:109001" ph="SELECT answe... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="109241:109335" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="109497:109581" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="110105:110218" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="110576:110691" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="111583:111705" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="114532:114615" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="114671:114752" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="115780:115940" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="115864:115939" ph="SELECT msa.u... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="117554:117628" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="117684:117767" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="117823:117904" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="117960:118046" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="118306:118392" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="118462:118538" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="118592:118666" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/import/simple.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/import/test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/assets/js/modal_survey.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding>
+            <marker date="1533357400000" expanded="true" signature="47765:47793" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="50972:50993" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="65267:65293" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="67364:67390" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="69102:69128" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="76620:76633" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/assets/js/image-uploader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/assets/js/modal_survey_answer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/settings_newform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2682">
+          <caret line="149" column="115" lean-forward="false" selection-start-line="149" selection-start-column="115" selection-end-line="149" selection-end-column="115" />
+          <folding>
+            <marker date="1541425681503" expanded="true" signature="2068:2157" ph="SELECT COUNT... " />
+            <marker date="1541425681503" expanded="true" signature="5269:5373" ph="SELECT id, n... ${$wpdb-&gt;base_prefix}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/campaignmonitor/services_json.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/assets/js/datatables.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="36" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/assets/js/modal_survey_answer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/import/simple.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/assets/js/modal_survey_admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="80" lean-forward="false" selection-start-line="4" selection-start-column="80" selection-end-line="4" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/import/test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="false" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/assets/js/image-uploader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6318">
+          <caret line="351" column="40" lean-forward="false" selection-start-line="351" selection-start-column="40" selection-end-line="351" selection-end-column="40" />
+          <folding>
+            <marker date="1530154376000" expanded="true" signature="1775:2007" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="7510:7527" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="7624:7650" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="8255:8487" ph="SELECT COUNT... " />
+            <marker date="1530154376000" expanded="true" signature="8742:8759" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="8856:8882" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="26799:26872" ph="Select from the... " />
+            <marker date="1530154376000" expanded="true" signature="30559:30637" ph="SELECT id,na... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="44115:44134" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="60682:60787" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="62840:62858" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="63262:63295" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="63364:63397" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="63465:63498" ph="..." />
+            <marker date="1530154376000" expanded="true" signature="65712:65809" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="69441:69571" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="69903:70019" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="70425:70533" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="70783:70869" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="70962:71118" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="75755:75837" ph="SELECT optio... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="77933:78015" ph="SELECT optio... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="79079:79161" ph="SELECT optio... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="80633:80787" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="81172:81258" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="82895:82981" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="84688:84844" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="87247:87399" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="87799:87885" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="89566:89652" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="91306:91462" ph="SELECT `coun... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="97283:97526" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="98518:98700" ph="SELECT sames... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="98870:99297" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="99720:99885" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="101565:101654" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="106991:107074" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="108616:108742" ph="SELECT quest... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="108828:109001" ph="SELECT answe... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="109241:109335" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="109497:109581" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="110105:110218" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="110576:110691" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="111583:111705" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="114532:114615" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="114671:114752" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="115780:115940" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="115864:115939" ph="SELECT msa.u... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="117554:117628" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="117684:117767" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="117823:117904" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="117960:118046" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="118306:118392" ph="DELETE FROM " />
+            <marker date="1530154376000" expanded="true" signature="118462:118538" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1530154376000" expanded="true" signature="118592:118666" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/settings_participants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3006">
+          <caret line="167" column="35" lean-forward="false" selection-start-line="167" selection-start-column="35" selection-end-line="167" selection-end-column="35" />
+          <folding>
+            <marker date="1532538008000" expanded="true" signature="972:1089" ph="DELETE FROM " />
+            <marker date="1532538008000" expanded="true" signature="1510:1592" ph="SELECT id, n... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="1958:2073" ph="SELECT id FR... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="2138:2414" ph="SELECT mspd.... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="2540:2714" ph="SELECT qid F... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="2967:3099" ph="DELETE FROM " />
+            <marker date="1532538008000" expanded="true" signature="3742:3851" ph="DELETE FROM " />
+            <marker date="1532538008000" expanded="true" signature="3964:4058" ph="DELETE FROM " />
+            <marker date="1532538008000" expanded="true" signature="4116:4325" ph="DELETE FROM " />
+            <marker date="1532538008000" expanded="true" signature="4207:4323" ph="SELECT mspd.... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="4752:4841" ph="SELECT * FRO... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="4924:5050" ph="SELECT ip FR... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="5134:5281" ph="SELECT posti... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="5367:5603" ph="SELECT mspd.... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="8082:8210" ph="SELECT aid F... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="11025:11298" ph="SELECT sames... " />
+            <marker date="1532538008000" expanded="true" signature="11372:11449" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="12321:12441" ph="SELECT posti... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="14505:15201" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="14530:15190" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="14541:15179" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="14651:15167" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="16062:16564" ph="SELECT msp.a... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="17158:17732" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="17168:17725" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="17176:17714" ph="..." />
+            <marker date="1532538008000" expanded="true" signature="17830:18078" ph="SELECT sames... ${$this-&gt;wpdb-&gt;base_prefix}" />
+            <marker date="1532538008000" expanded="true" signature="18429:18518" ph="DELETE FROM " />
+            <marker date="1532538008000" expanded="true" signature="20585:20659" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/settings_newform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="233" lean-forward="false" selection-start-line="0" selection-start-column="230" selection-end-line="0" selection-end-column="233" />
+          <folding>
+            <marker date="1541425681503" expanded="true" signature="2068:2157" ph="SELECT COUNT... " />
+            <marker date="1541425681503" expanded="true" signature="5269:5373" ph="SELECT id, n... ${$wpdb-&gt;base_prefix}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/assets/js/modal_survey.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11106">
+          <caret line="617" column="9" lean-forward="false" selection-start-line="617" selection-start-column="9" selection-end-line="617" selection-end-column="9" />
+          <folding>
+            <marker date="1533357400000" expanded="true" signature="47765:47793" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="50972:50993" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="65267:65293" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="67364:67390" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="69102:69128" ph="..." />
+            <marker date="1533357400000" expanded="true" signature="76620:76633" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal_survey.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="2400" column="29" lean-forward="true" selection-start-line="2400" selection-start-column="29" selection-end-line="2400" selection-end-column="29" />
+          <folding>
+            <marker date="1541429915314" expanded="true" signature="9487:9551" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="9657:10071" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="10483:11059" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="11114:11326" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="11381:11718" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="11773:12001" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="12056:12391" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="12446:12844" ph="CREATE TABLE... IF" />
+            <marker date="1541429915314" expanded="true" signature="16067:16130" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16152:16217" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16239:16302" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16324:16392" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16414:16482" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="16504:16580" ph="DROP TABLE I... " />
+            <marker date="1541429915314" expanded="true" signature="22582:22666" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="22721:22887" ph="SELECT sames... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="31342:31422" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="31551:31635" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="31690:31855" ph="SELECT sames... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="32266:32506" ph="SELECT DATE_... " />
+            <marker date="1541429915314" expanded="true" signature="32566:32701" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="39969:40059" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="40821:40905" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="41033:41121" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="41223:41307" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="41365:41530" ph="SELECT sames... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="41874:42107" ph="SELECT *, ms... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="42747:43108" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="43798:43956" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="47356:47514" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="47781:47922" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="51975:52208" ph="SELECT *, ms... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="53487:53642" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="53898:54039" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="55529:55775" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="55876:56034" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="56288:56429" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="56860:56944" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="56994:57341" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="68585:68831" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="69408:69563" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="69607:69765" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="70021:70162" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="74738:74802" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="75353:75417" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="77731:77977" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="78585:78611" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="78738:78896" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="79158:79299" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="81927:81953" ph="..." />
+            <marker date="1541429915314" expanded="true" signature="81995:82153" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="82407:82548" ph="SELECT COUNT... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="83661:83745" ph="SELECT id FR... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="83795:84142" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="102318:102732" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="103103:103543" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="107123:107291" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="108406:108523" ph="SELECT quest... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="108605:108846" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="110216:110469" ph="SELECT msat.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="112136:112407" ph="SELECT id, o... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="114053:114305" ph="SELECT mspd.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="117225:117639" ph="SELECT *,msq... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="119130:119294" ph="SELECT * FRO... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="119958:120174" ph="SELECT autoi... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="121527:121780" ph="SELECT msat.... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="125639:125783" ph="SELECT `qid`... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="125885:126018" ph="SELECT `aopt... ${$wpdb-&gt;base_prefix}" />
+            <marker date="1541429915314" expanded="true" signature="127691:127912" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="127974:128193" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="128625:128843" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="128904:129122" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="129183:129399" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="130372:130591" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="130854:131084" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="131422:131657" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="131722:131951" ph="SELECT * FRO... COLUMNS" />
+            <marker date="1541429915314" expanded="true" signature="132485:132707" ph="SELECT * FRO... COLUMNS" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
